@@ -115,7 +115,7 @@ video{
   object-fit:cover;
   transform:rotateY(180deg);
   -webkit-transform:rotateY(180deg);
-  -moz-transform:rotateY(180degs);
+  -moz-transform:rotateY(180deg);
 }
 @media (max-width: 700px) {
   #show_chat {
